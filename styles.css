@@ -100,6 +100,7 @@ nav ul li a:hover {
 
 .absolute {
   position: absolute;
+  bottom: -88px;
 }
 
 .heading {
@@ -529,8 +530,8 @@ nav ul li a:hover {
 
 .skillFadedText {
   font-size: 12em;
-  right: -9%;
-  bottom: -35%;
+  right: 0%;
+  bottom: -40%;
   user-select: none;
   color: #e7e7e7;
   font-weight: bold;
